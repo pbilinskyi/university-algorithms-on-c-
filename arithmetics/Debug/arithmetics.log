@@ -1,0 +1,18 @@
+﻿  BigInteger.cpp
+  DivisionAlg.cpp
+  Karatsuba.cpp
+  main.cpp
+c:\users\paul white\source\repos\3d term\arithmetics\main.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\paul white\source\repos\3d term\arithmetics\main.cpp(69): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\paul white\source\repos\3d term\arithmetics\main.cpp(105): warning C4018: <=: несоответствие типов со знаком и без знака
+  PrimalityTest.cpp
+  ToomCook.cpp
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(51): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(78): warning C4018: <=: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\paul white\source\repos\3d term\arithmetics\karatsuba.cpp(45): warning C4715: Karatsuba::multiply: значение возвращается не при всех путях выполнения
+BigInteger.obj : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы ""private: static class MultiplicationAlg * BigInteger::alg" (?alg@BigInteger@@0PAVMultiplicationAlg@@A)"
+C:\Users\Paul White\source\repos\3d Term\Debug\arithmetics.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1

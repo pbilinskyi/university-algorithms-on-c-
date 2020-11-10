@@ -1,0 +1,10 @@
+﻿  Histogram.cpp
+  main.cpp
+  Random.cpp
+c:\users\paul white\source\repos\3d term\labwork_random\random.cpp(45): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\paul white\source\repos\3d term\labwork_random\random.cpp(58): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\paul white\source\repos\3d term\labwork_random\random.cpp(81): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  labwork_random.vcxproj -> C:\Users\Paul White\source\repos\3d Term\x64\Release\labwork_random.exe

@@ -1,0 +1,15 @@
+﻿  BigInteger.cpp
+  DivisionAlg.cpp
+  Karatsuba.cpp
+c:\users\paul white\source\repos\3d term\arithmetics\karatsuba.cpp(7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\paul white\source\repos\3d term\arithmetics\karatsuba.cpp(8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PrimalityTest.cpp
+  ToomCook.cpp
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\paul white\source\repos\3d term\arithmetics\toomcook.cpp(22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  Создание кода
+c:\users\paul white\source\repos\3d term\arithmetics\karatsuba.cpp(45): warning C4715: Karatsuba::multiply: значение возвращается не при всех путях выполнения
+  All 49 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  arithmetics.vcxproj -> C:\Users\Paul White\source\repos\3d Term\x64\Release\arithmetics.exe

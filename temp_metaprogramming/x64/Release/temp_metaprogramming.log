@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\paul white\source\repos\3d term\temp_metaprogramming\templatemetaprog.h(63): error C2187: синтаксическая ошибка: непредвиденный здесь элемент ":"
+  c:\users\paul white\source\repos\3d term\temp_metaprogramming\templatemetaprog.h(65): note: выполняется компиляция ссылки на экземпляр шаблон класс "metaprog::Iteration<I>"
+c:\users\paul white\source\repos\3d term\temp_metaprogramming\templatemetaprog.h(63): error C2760: синтаксическая ошибка: ожидался токен "код выражения", а не "идентификатор"

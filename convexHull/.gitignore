@@ -1,0 +1,7 @@
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+data.txt
+Debug/
+SFML-2.5.1/
+x64/
